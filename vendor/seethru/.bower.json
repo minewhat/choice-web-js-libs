@@ -1,0 +1,25 @@
+{
+  "name": "seethru",
+  "version": "3.0.0",
+  "main": "dist/seeThru.min.js",
+  "ignore": [
+    "Gruntfile.js",
+    "package.json",
+    "seethru.json",
+    ".jshintrc",
+    "node_modules",
+    "bower_components",
+    "test",
+    "media"
+  ],
+  "homepage": "https://github.com/m90/seeThru",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.0.0",
+    "commit": "c30b7014ef68bce623508c23d4f3d0b37312438d"
+  },
+  "_source": "https://github.com/m90/seeThru.git",
+  "_target": "~3.0.0",
+  "_originalSource": "seethru"
+}

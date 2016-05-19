@@ -1,0 +1,32 @@
+{
+  "name": "choice-website",
+  "version": "1.0.3",
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap.git",
+    "bootstrap-notify": "https://github.com/Nijikokun/bootstrap-notify.git",
+    "bootstrapx-clickover": "*",
+    "c3": "~0.2.5",
+    "fullpage.js": "fullpage#~2.7.7",
+    "html5shiv": "~3.6.2",
+    "iOS-Orientationchange-Fix": "https://github.com/scottjehl/iOS-Orientationchange-Fix.git",
+    "jquery": "~1.10",
+    "jquery-cycle2": "~2.1.6",
+    "jquery-placeholder": "~2.0.7",
+    "jquery-selectric": "~1.9.4",
+    "jquery-smooth-scroll": "https://github.com/kswedberg/jquery-smooth-scroll.git",
+    "jquery.appear": "https://github.com/morr/jquery.appear.git#~0.3.3",
+    "nouislider": "~8.3.0",
+    "purl": "https://github.com/allmarkedup/purl.git#~2.3.1",
+    "requirePlugins": "https://github.com/millermedeiros/requirejs-plugins.git",
+    "requirejs": "https://github.com/jrburke/requirejs.git",
+    "sticky": "https://github.com/garand/sticky.git",
+    "text": "https://github.com/requirejs/text.git",
+    "tpl": "https://github.com/ZeeAgency/requirejs-tpl.git",
+    "underscore-amd": "*",
+    "waypoints": "~4.0.0",
+    "seethru": "~3.0.0"
+  },
+  "devDependencies": {
+    "html5shiv": "~3.6.2"
+  }
+}
