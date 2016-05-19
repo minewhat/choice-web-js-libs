@@ -1,5 +1,4 @@
 {
   "directory": "vendor",
-  "resolvers": ["fury-bower-resolver"]
 }
 
